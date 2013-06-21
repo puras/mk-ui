@@ -1,4 +1,5 @@
-mk-ui
+MK UI
 =====
 
-WEB UI based on jQuery
+基于jQuery开发，使用Bootstrap为样式开发的UI组件库。
+
