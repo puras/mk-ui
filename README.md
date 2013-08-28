@@ -1,6 +1,11 @@
 MK UI
 =====
 
-基于jQuery-1.10.1开发，使用Bootstrap为样式开发的UI组件库。
+jQuery常用UI组件库。
+
+基于：
+
+* jQuery-1.10.2
+* Bootstrap 3.0
 
 官方网站：http://ui.mooko.net
